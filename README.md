@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/lassie0831"><img src="https://img.shields.io/badge/Telegram-%40lassie__dev-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram @lassie0831"></a>
+  <a href="https://t.me/lassie0831"><img src="https://img.shields.io/badge/Telegram-%40lassie0831-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram @lassie0831"></a>
   <a href="mailto:lassie.solution@gmail.com"><img src="https://img.shields.io/badge/Email-lassie.solution%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email lassie.solution@gmail.com"></a>
 </p>
 
