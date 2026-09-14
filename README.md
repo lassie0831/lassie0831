@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/lassie_dev"><img src="https://img.shields.io/badge/Telegram-%40lassie__dev-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram @lassie_dev"></a>
+  <a href="https://t.me/lassie0831"><img src="https://img.shields.io/badge/Telegram-%40lassie__dev-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram @lassie0831"></a>
   <a href="mailto:lassie.solution@gmail.com"><img src="https://img.shields.io/badge/Email-lassie.solution%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email lassie.solution@gmail.com"></a>
 </p>
 
@@ -87,5 +87,5 @@ This means two things for you. I can build a working prototype faster than befor
 ---
 
 <p align="center">
-  <sub>Available for freelance work &mdash; Telegram <a href="https://t.me/lassie_dev">@lassie_dev</a>, email <a href="mailto:lassie.solution@gmail.com">lassie.solution@gmail.com</a>.<br>If something is broken in production and nobody knows why, that is the message I answer fastest.</sub>
+  <sub>Available for freelance work &mdash; Telegram <a href="https://t.me/lassie0831">@lassie0831</a>, email <a href="mailto:lassie.solution@gmail.com">lassie.solution@gmail.com</a>.<br>If something is broken in production and nobody knows why, that is the message I answer fastest.</sub>
 </p>
