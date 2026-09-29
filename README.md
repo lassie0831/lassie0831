@@ -10,7 +10,3 @@
 </div>
 
 ---
-
-<p align="center">
-  <sub>Available for freelance work &mdash; Telegram <a href="https://t.me/lassie0831">@lassie0831</a>, email <a href="mailto:lassie.solution@gmail.com">lassie.solution@gmail.com</a>.<br>If something is broken in production and nobody knows why, that is the message I answer fastest.</sub>
-</p>
